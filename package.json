@@ -1,0 +1,19 @@
+{
+  "name": "img-search",
+  "version": "1.0.0",
+  "description": "Image Search Abstraction Layer",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sabathh/img-search.git"
+  },
+  "author": "tuliosabatino@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sabathh/img-search/issues"
+  },
+  "homepage": "https://github.com/Sabathh/img-search#readme"
+}
