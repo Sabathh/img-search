@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Sabathh/img-search#readme",
   "dependencies": {
+    "dotenv": "^4.0.0",
     "googleapis": "^20.0.1",
     "mongoose": "^4.11.1"
   }
