@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Sabathh/img-search/issues"
   },
-  "homepage": "https://github.com/Sabathh/img-search#readme"
+  "homepage": "https://github.com/Sabathh/img-search#readme",
+  "dependencies": {
+    "googleapis": "^20.0.1",
+    "mongoose": "^4.11.1"
+  }
 }
